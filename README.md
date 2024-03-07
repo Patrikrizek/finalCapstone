@@ -1,4 +1,4 @@
-### Project name
+# Project name
 TASK MANAGER
 
 ## Project description
@@ -21,6 +21,7 @@ this application on the console.
 ### 02 Usage
 This application can be used for any small easy project where task tracking
 is required.
+![Preview of the Task Manager.](/img/task_manager_preview.JPG "The Task Manager in use.")
 
 ### 03 Functions used in the project
 Please find the descriptiove commenst in the code.
